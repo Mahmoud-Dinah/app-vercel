@@ -6,12 +6,12 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        
+      
       </Head>
 
       <main className={styles.main}>
        <div>
-         <h1>Welcome to basic next.js App From vercel deployment </h1>
+         <h1 >Welcome to  my basic next.js App From vercel deployment &#128512; </h1>
        </div>
       </main>
 
