@@ -10,9 +10,9 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-       <di>
-         <h1>Welcome From vercel deployment </h1>
-       </di>
+       <div>
+         <h1>Welcome to basic next.js App From vercel deployment </h1>
+       </div>
       </main>
 
       <footer className={styles.footer}>
